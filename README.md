@@ -13,6 +13,6 @@ The idea is to build a flexible UI app that has a list of items and a detail vie
 
 ## Phone
 
-<img src="http://i.imgur.com/JHwjiJo.png" width="450" alt="Phone 1" />
+<img src="http://i.imgur.com/JHwjiJo.png" width="350" alt="Phone 1" />
 &nbsp;
-<img src="http://i.imgur.com/IFS7Pxh.png" width="450" alt="Phone 2" />
+<img src="http://i.imgur.com/IFS7Pxh.png" width="350" alt="Phone 2" />
